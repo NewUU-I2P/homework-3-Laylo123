@@ -20,6 +20,4 @@ if (firstOctet % 2 == 0){
 }
 return 0;
 }
-    // make use of control flow statements
-    // return result;
-}
+
